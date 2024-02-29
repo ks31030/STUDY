@@ -1,3 +1,5 @@
+문자와 문자열 알아보기
+
 String s1 = "AB";
 String s2 = new String("AB");
 	-> 둘 다 같은 말임.
