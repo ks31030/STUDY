@@ -4,3 +4,7 @@ String s2 = new String("AB");
 
 String s = ""; //빈 문자열
 char ch = ''; //에러
+"" + "7" -> "7"
+
+-> any type + 문자열 -> 문자열
+-> 문자열 + any type -> 문자열
