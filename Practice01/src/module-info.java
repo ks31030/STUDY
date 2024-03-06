@@ -5,5 +5,5 @@
  * @author kimse
  *
  */
-module chap_01 {
+module Project01 {
 }
